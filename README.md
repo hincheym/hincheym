@@ -1,5 +1,7 @@
-### Hi there 👋
+## Hola 👋
+👨‍🔬 Currently completing my thesis in the Vargas-Baca group.
 
+📫 How to reach me: hincheym@mcmaster.ca
 <!--
 **hincheym/hincheym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
